@@ -9,8 +9,8 @@
     "theme_color": "#2E8B57",
     "orientation": "portrait-primary",
     "scope": "https://amalanyaumiyah.xo.je/ftj/",
-    "id": "https://amalanyaumiyah.xo.je/ftj/",
     "start_url": "https://amalanyaumiyah.xo.je/ftj/index.php?utm_source=pwa",
+    "id": "https://amalanyaumiyah.xo.je/ftj/",
     "icons": [
         {
             "src": "https://raw.githubusercontent.com/krasyid822/for-manifest-json-pwa/main/icons/icon-192.png",

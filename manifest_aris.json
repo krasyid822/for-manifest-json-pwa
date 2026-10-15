@@ -1,0 +1,48 @@
+{
+    "name": "Amal Yaumiyah - Aris",
+    "short_name": "Aris",
+    "description": "Catat dan pantau ibadah harianmu untuk menjadi lebih istiqomah.",
+    "lang": "id-ID",
+    "dir": "ltr",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#2E8B57",
+    "orientation": "portrait-primary",
+    "scope": "https://amalanyaumiyah.xo.je/ftj/aris/",
+    "start_url": "https://amalanyaumiyah.xo.je/ftj/aris/index.php?utm_source=pwa",
+    "id": "https://amalanyaumiyah.xo.je/ftj/aris/",
+    "icons": [
+        {
+            "src": "https://krasyid822.github.io/Drive/icon-192.svg",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "https://krasyid822.github.io/Drive/icon-512.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "https://krasyid822.github.io/Drive/icon-512.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Download Laporan Bulan Ini",
+            "short_name": "Download Laporan",
+            "description": "Unduh laporan amalan dalam CSV",
+            "url": "https://amalanyaumiyah.xo.je/ftj/aris/download.php"
+        },
+        {
+            "name": "Dashboard Grup FTJ",
+            "short_name": "Dashboard Grup",
+            "description": "Lihat analisis seluruh kelompok",
+            "url": "https://amalanyaumiyah.xo.je/ftj/index.php"
+        }
+    ]
+}

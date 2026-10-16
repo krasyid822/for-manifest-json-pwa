@@ -1,0 +1,42 @@
+{
+    "name": "Amal Yaumiyah - Ihsan",
+    "short_name": "Ihsan",
+    "description": "Catat dan pantau ibadah harianmu untuk menjadi lebih istiqomah.",
+    "lang": "id-ID",
+    "dir": "ltr",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#2E8B57",
+    "orientation": "portrait-primary",
+    "scope": "https://amalanyaumiyah.xo.je/bph/ihsan/",
+    "start_url": "https://amalanyaumiyah.xo.je/bph/ihsan/index.php?utm_source=pwa",
+    "id": "https://amalanyaumiyah.xo.je/bph/ihsan/",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/krasyid822/for-manifest-json-pwa/main/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/krasyid822/for-manifest-json-pwa/main/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/krasyid822/for-manifest-json-pwa/main/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Download Laporan Bulan Ini",
+            "short_name": "Download Laporan",
+            "description": "Unduh laporan amalan dalam CSV",
+            "url": "https://amalanyaumiyah.xo.je/bph/ihsan/download.php"
+        }
+    ]
+}
